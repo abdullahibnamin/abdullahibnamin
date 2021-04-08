@@ -1,3 +1,12 @@
+
+
+<img src="images/python.jpg">
+
+
+
+
+
+
 - 👋 Hi, I’m Abdullah Ibn Amin
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
