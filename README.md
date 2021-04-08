@@ -1,6 +1,6 @@
 
 
-<img src="images/python.jpg">
+<img src="images/python.png" height='50' width='50'>
 
 
 
