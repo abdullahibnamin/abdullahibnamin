@@ -16,7 +16,7 @@
 <br />
 
 <summary>GitHub Stats</summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahibnamin&show_icons=true&theme=radical)
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abdullahibnamin&show_icons=true&hide_border=true" />
 
 
 
