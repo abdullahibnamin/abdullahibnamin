@@ -14,6 +14,15 @@
 
 <br />
 <br />
+
+<details>
+  <summary>:GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abdullahibnamin&show_icons=true&hide_border=true" />
+
+</details>
+
+
 <!---
 abdullahibnamin/abdullahibnamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
