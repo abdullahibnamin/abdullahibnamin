@@ -15,11 +15,9 @@
 <br />
 <br />
 
-<details>
-  <summary>:GitHub Stats</summary>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahibnamin&show_icons=true&theme=radical)
+<summary>GitHub Stats</summary>
+(https://github-readme-stats.vercel.app/api?username=abdullahibnamin&show_icons=true&theme=radical)
 
-</details>
 
 
 <!---
