@@ -5,8 +5,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
-<br />
 <br />
 
 ### Languages and Tools:
