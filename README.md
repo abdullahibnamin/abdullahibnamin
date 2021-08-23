@@ -15,7 +15,7 @@
 <br />
 
 ### GitHub Stats:
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdullahibnamin&show_icons=true&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdullahibnamin&theme=midnight-purple&show_icons=true&hide_border=true" />
 
 
 
