@@ -16,7 +16,7 @@
 <br />
 
 <summary>GitHub Stats</summary>
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abdullahibnamin&show_icons=true&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.abdullahibnamin.vercel.app/api?username=abdullahibnamin&show_icons=true&hide_border=true" />
 
 
 
