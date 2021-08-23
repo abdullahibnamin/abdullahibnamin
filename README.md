@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
 <br />
 
 ### Languages and Tools:
@@ -16,7 +15,7 @@
 <br />
 
 <summary>GitHub Stats</summary>
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.abdullahibnamin.vercel.app/api?username=abdullahibnamin&show_icons=true&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdullahibnamin&show_icons=true&hide_border=true" />
 
 
 
