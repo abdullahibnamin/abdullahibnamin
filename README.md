@@ -15,7 +15,8 @@
 <br />
 <br />
 ### Top Langs:
-<img align="left" alt="GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahibnamin&layout=compact)](https://github.com/abdullahibnamin/github-readme-stats)" />
+<img align="left" alt="GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahibnamin)](https://github.com/anuraghazra/github-readme-stats)
+" />
 
 
 ### GitHub Stats:
