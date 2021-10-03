@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <br />
-
+<!-- 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" height='26' src="images/python.png">
 <img align="left" alt="Python" width="26px" height='26' src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png">
@@ -28,4 +28,4 @@
 <!---
 abdullahibnamin/abdullahibnamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> -->
