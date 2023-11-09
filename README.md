@@ -1,6 +1,7 @@
 # Hey! I’m Abdullah Ibn Amin 👋
-<img src="/images/octocat_profile.png" alt="octocat image" width="200"/>
-
+<p align="center"> 
+<img src="/images/octocat_profile.png" alt="octocat image" width="200"/>      
+</p>
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
